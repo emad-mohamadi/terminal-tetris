@@ -1,20 +1,20 @@
 ## Terminal Tetris
-~ by biotet team:
-    
-    emad-mohamadi & danial-fazel
 
-Before running the game:
+Before you run the game:
 - Enter your own directory path in `main.py` (and uncomment it)
 
 Or:
 - Open your directory in terminal
 - Run this command:
-    `python tetris.py`
+
+      python tetris.py
 
 Requirements:
 - Python `keyboard` package must be installed
-- If not, you can use this command:
-    `pip install keyboard`
+- If not, use this command:
+
+      pip install keyboard
+
 
 "Enjoy it!"
 
