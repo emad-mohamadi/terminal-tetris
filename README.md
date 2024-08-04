@@ -1,13 +1,15 @@
 ## Terminal Tetris
 
+
 Before you run the game:
-- Enter your own directory path in `tetris.py` (and uncomment it)
+- Enter directory path in `tetris.py` (and uncomment it)
 
 Or:
 - Open your directory in terminal
-- Run this command:
+- Run the game by:
 
       python tetris.py
+
 
 Requirements:
 - Python `keyboard` package must be installed
@@ -16,10 +18,11 @@ Requirements:
       pip install keyboard
 
 
+
 "Enjoy it!"
 
 
 
-Telegram: @emad_mohammadi
+Telegram: t.me/emad_mohammadi
 
 Gmail: semadmhmdi@gmail.com
