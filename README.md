@@ -1,5 +1,5 @@
 ## Terminal Tetris
-
+\
 
 Before you run the game:
 - Enter directory path in `tetris.py` (and uncomment it)
@@ -16,11 +16,11 @@ Requirements:
 - If not, use this command:
 
       pip install keyboard
-
-
+\
+\
 
 Enjoy it!
-
+\
 
 contact:
       t.me/emad_mohammadi \
