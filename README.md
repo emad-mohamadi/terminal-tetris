@@ -2,7 +2,8 @@
 ~ by emad-mohamadi & danial-fazel
 
 Before running the game:
-- Change enter your own directory path in `main.py` (and uncomment it).
+- Enter your own directory path in `main.py` (and uncomment it)
+
 Or:
 - Open your directory in terminal
 - Run this command:
