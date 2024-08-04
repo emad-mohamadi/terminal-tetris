@@ -1,5 +1,6 @@
 ## Terminal Tetris
-~ by emad-mohamadi & danial-fazel
+~ by biotet team:
+    emad-mohamadi & danial-fazel
 
 Before running the game:
 - Enter your own directory path in `main.py` (and uncomment it)
@@ -15,4 +16,6 @@ Requirements:
     `pip install keyboard`
 
 Enjoy it!
-Contact: @emad_mohammadi (telegram)
+
+Telegram: @emad_mohammadi
+Gmail: semadmhmdi@gmail.com
