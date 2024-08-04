@@ -1,6 +1,6 @@
 ## Terminal Tetris
 
-
+----
 Before you run the game:
 - Enter directory path in `tetris.py` (and uncomment it)
 
@@ -10,18 +10,19 @@ Or:
 
       python tetris.py
 
-
+----
 Requirements:
 - Python `keyboard` package must be installed
 - If not, use this command:
 
       pip install keyboard
 
-
+----
 
 Enjoy it!
 
+----
+Contact:
 
-contact:
-      t.me/emad_mohammadi \
-      semadmhmdi@gmail.com
+ t.me/emad_mohammadi \
+ semadmhmdi@gmail.com
