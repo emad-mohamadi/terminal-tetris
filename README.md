@@ -1,5 +1,6 @@
 ## Terminal Tetris
 ~ by biotet team:
+    
     emad-mohamadi & danial-fazel
 
 Before running the game:
@@ -15,7 +16,10 @@ Requirements:
 - If not, you can use this command:
     `pip install keyboard`
 
-Enjoy it!
+"Enjoy it!"
+
+
 
 Telegram: @emad_mohammadi
+
 Gmail: semadmhmdi@gmail.com
