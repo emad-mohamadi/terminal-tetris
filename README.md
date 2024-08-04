@@ -19,10 +19,10 @@ Requirements:
 
 
 
-"Enjoy it!"
+Enjoy it!
 
 
 
-Telegram: t.me/emad_mohammadi
+t.me/emad_mohammadi
 
-Gmail: semadmhmdi@gmail.com
+semadmhmdi@gmail.com
