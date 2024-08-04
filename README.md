@@ -1,7 +1,7 @@
 ## Terminal Tetris
 
 Before you run the game:
-- Enter your own directory path in `main.py` (and uncomment it)
+- Enter your own directory path in `tetris.py` (and uncomment it)
 
 Or:
 - Open your directory in terminal
