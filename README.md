@@ -22,7 +22,6 @@ Requirements:
 Enjoy it!
 
 
-
-t.me/emad_mohammadi
-
-semadmhmdi@gmail.com
+contact:
+      t.me/emad_mohammadi \
+      semadmhmdi@gmail.com
