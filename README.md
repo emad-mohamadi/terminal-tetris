@@ -32,39 +32,37 @@ Before you run the game
   if __name__ == '__main__':
       main()
 
-- Then open the project directory in terminal and use this command:
+- Then open the project directory in terminal and use this command: (Make sure pip is already installed, if not, [install pip](https://pip.pypa.io/en/stable/installation/))
   ```console
-  pip install . # Make sure pip is already installed.
+  pip install .
   ```
 - Now you can play the game anywhere in terminal with `tetris` command:
   ```console
   tetris
   ```
 
-or
-- Open your directory in terminal
-- Run the game:
 
-      python tetris.py
-----
 
 Requirements:
 - Python `keyboard` package must be installed
-- If not, you can install it using `pip`:
+- If not, you can install it using `pip`: ([install pip](https://pip.pypa.io/en/stable/installation/))
+  ```console
+  pip install keyboard
+  ```
 
-      pip install keyboard
-----
+
 
 Enjoy it 🍵
 ----
 
-~ emad-mohamadi & danial-fazel\
+~ [emad-mohamadi](https://github.com/emad-mohamadi)\
+~ [danial-fazel](https://github.com/danial-fazel)\
 The Biotet team
 
 ----
 Contact:\
 semadmhmdi@gmail.com \
-t.me/emad_mohammadi
+[@emad_mohammadi](https://t.me/emad_mohammadi)
 
 ----
        
