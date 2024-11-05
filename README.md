@@ -32,7 +32,14 @@ Before you run the game
   if __name__ == '__main__':
       main()
 
-      
+- Then open the project directory in terminal and use this command:
+  ```console
+  pip install . # Make sure pip is already installed.
+  ```
+- Now you can play the game anywhere in terminal with `tetris` command:
+  ```console
+  tetris
+  ```
 
 or
 - Open your directory in terminal
