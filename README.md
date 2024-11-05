@@ -2,7 +2,7 @@
 
 
 Before you run the game
-- Enter directory path in `main.py` (and uncomment the line)
+- Enter directory path in `tetris/main.py` (and uncomment the line)
 - Changed script must be like this
   
   ```Python
